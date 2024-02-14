@@ -1,2 +1,2 @@
-# CLLM
-CLLM(Continuous Learning Language Model)
+# E-LLM
+ELLM(EverLearning Language Model)
